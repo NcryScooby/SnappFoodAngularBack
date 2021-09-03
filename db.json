@@ -2,18 +2,18 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
+      "name": "Hamburger",
+      "price": 21.99
     },
     {
       "id": 2,
-      "name": "Notebook Mac Pro",
-      "price": 12000.89
+      "name": "Batatas-Fritas",
+      "price": 12.99
     },
     {
       "id": 3,
-      "name": "Samsung S20+",
-      "price": 5000.89
+      "name": "Refrigerante",
+      "price": 6.99
     }
   ]
 }
