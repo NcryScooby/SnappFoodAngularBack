@@ -8,7 +8,7 @@
     {
       "id": 2,
       "name": "Batatas-Fritas",
-      "price": 12.99
+      "price": "12.99"
     },
     {
       "id": 3,
@@ -34,6 +34,21 @@
       "name": "Nuggets",
       "price": "11.99",
       "id": 7
+    },
+    {
+      "name": "ss",
+      "price": "3",
+      "id": 8
+    },
+    {
+      "name": "33",
+      "price": "33",
+      "id": 9
+    },
+    {
+      "name": "33",
+      "price": "33",
+      "id": 10
     }
   ]
 }
