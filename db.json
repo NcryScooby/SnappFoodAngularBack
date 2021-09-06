@@ -29,6 +29,11 @@
       "name": "Xis",
       "price": "14.99",
       "id": 6
+    },
+    {
+      "name": "Nuggets",
+      "price": "11.99",
+      "id": 7
     }
   ]
 }
